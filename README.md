@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonaldoBandek
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning Python 3
+- 👀 I’m interested in being a frontend developer
+- 🌱 I’m currently learning HTML, CSS, Javascript, and React.
 - 💞️ I’m looking to collaborate on building projects
 - 📫 you can reach me at ronaldobandek@gmail.com
 
